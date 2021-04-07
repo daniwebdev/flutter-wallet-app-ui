@@ -1,7 +1,7 @@
-# flutter_wallet_app_ui
+# Flutter Wallet App UI
 
 A new Flutter project.
-Design refferance : https://dribbble.com/shots/15247790-Finance-App/attachments/6997228?mode=media 
+Inspired by design : https://dribbble.com/shots/15247790-Finance-App/attachments/6997228?mode=media 
 
 ## Getting Started
 
